@@ -1,5 +1,0 @@
-D:\ExampleAffectivaConsoleApp\ExampleAffectivaConsoleApp\bin\Debug\ExampleAffectivaConsoleApp.exe
-D:\ExampleAffectivaConsoleApp\ExampleAffectivaConsoleApp\bin\Debug\ExampleAffectivaConsoleApp.pdb
-D:\ExampleAffectivaConsoleApp\ExampleAffectivaConsoleApp\obj\Debug\ExampleAffectivaConsoleApp.csprojResolveAssemblyReference.cache
-D:\ExampleAffectivaConsoleApp\ExampleAffectivaConsoleApp\obj\Debug\ExampleAffectivaConsoleApp.exe
-D:\ExampleAffectivaConsoleApp\ExampleAffectivaConsoleApp\obj\Debug\ExampleAffectivaConsoleApp.pdb

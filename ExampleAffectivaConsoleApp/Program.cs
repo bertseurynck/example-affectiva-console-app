@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Affdex;
 
 namespace ExampleAffectivaConsoleApp
 {
@@ -9,8 +10,14 @@ namespace ExampleAffectivaConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Example Affectiva Console App");
 
+            PhotoDetector detector = new PhotoDetector(1);
+
+            String licensePath = @"";
+            detector.setLicensePath(licensePath);
+
+            // So the console window does not close immediately
             Console.ReadLine();
         }
     }
